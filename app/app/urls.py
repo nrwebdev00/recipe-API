@@ -21,4 +21,4 @@ urlpatterns = [
 ]
 
 
-test=Linting
+one=1
