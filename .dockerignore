@@ -6,9 +6,9 @@
 .docker
 
 # Python
-app/__pycachce__/
+app/__pycache__/
 app/*/__pycache__/
-app/*/*/__pychcae__/
+app/*/*/__pycache__/
 app/*/*/*/__pycache__/
 .env/
 .venv/
