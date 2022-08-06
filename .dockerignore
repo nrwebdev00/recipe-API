@@ -2,14 +2,14 @@
 .git
 .gitignore
 
-#Docker
+# Docker
 .docker
 
 # Python
-app/__pycahce__/
-app/*/__pycahce__/
-app/*/*/__pychace__/
-app/*/*/*/__pycahce__/
+app/__pycachce__/
+app/*/__pycache__/
+app/*/*/__pychcae__/
+app/*/*/*/__pycache__/
 .env/
-.venv
+.venv/
 venv/
